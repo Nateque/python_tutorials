@@ -1,0 +1,3 @@
+harshit's salary is 100
+nateq's salary is 200
+ahmed's salary is 150
